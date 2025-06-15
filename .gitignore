@@ -1,0 +1,26 @@
+# Go build files
+/bin/
+/build/
+/dist/
+*.exe
+*.test
+*.out
+
+# Go workspace files
+*.log
+*.cache
+*.tmp
+*.swp
+*.swo
+
+# Editor and IDE settings
+.vscode/
+.idea/
+*.code-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Docker-related
+*.tar
