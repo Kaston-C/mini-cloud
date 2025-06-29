@@ -1,6 +1,6 @@
 # ☁️ Mini-Cloud
 
-A lightweight mini-cloud infrastructure, **Mini-Cloud**, built in **Go** that uses Docker containers (acting as lightweight VMs) with multi-node scheduling and resource management.
+A lightweight cloud infrastructure, **Mini-Cloud**, built in **Go** that uses Docker containers (acting as lightweight VMs) with multi-node scheduling and resource management.
 
 > Simulates a multi-node cluster with resource-aware container provisioning and lifecycle management.
 
